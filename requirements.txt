@@ -1,0 +1,10 @@
+langchain-google-genai 
+pillow
+python-dotenv
+streamlit
+replicate
+langchain==0.1.7
+PyPDF2
+streamlit_authenticator
+langchain_community
+faiss-cpu
